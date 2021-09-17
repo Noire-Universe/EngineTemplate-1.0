@@ -1,0 +1,15 @@
+
+
+Error messages to keep track of:
+- Image Loader: static BufferedImage
+
+
+make code list for errors
+
+
+
+to do:
+In StartupState && Paused stated, drawing the N for the logo ... the picture size is hard-coded, need formula!!!
+
+
+
